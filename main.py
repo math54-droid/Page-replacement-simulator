@@ -1,4 +1,4 @@
-# Frame state table added
+# Charts and summary added
 import tkinter as tk
 from tkinter import ttk, messagebox
 import matplotlib.pyplot as plt
