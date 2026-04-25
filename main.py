@@ -1,4 +1,4 @@
-# GUI layout built
+# Frame state table added
 import tkinter as tk
 from tkinter import ttk, messagebox
 import matplotlib.pyplot as plt
