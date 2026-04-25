@@ -1,4 +1,4 @@
-# Added FIFO algorithm
+# LRU algorithm added
 def fifo(pages: list[int], num_frames: int) -> dict:
     frames       = []          
     frame_states = []          
